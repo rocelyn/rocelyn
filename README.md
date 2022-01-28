@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rocelyn
 - 👀 I’m interested in biology, art, & languages
-- 🌱 I’m currently learning biostatistics at CUNY Baruch
+- 🌱 I’m currently learning biostatistics
 - 💞️ I’m looking to collaborate on assignments :)
 - 📫 How to reach me ... telegram: @roxie2000 discord:roxie#0599
 
