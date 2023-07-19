@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rocelyn
-- ✨ Majoring in Biological Sciences at CUNY Baruch
-- 👀 I’m interested in biology, art, & languages
-- 🌱 I’m currently learning biostatistics
+- ✨ Majoring in Business Communications w/ a specialization in Graphic Communications at CUNY Baruch
+- 👀 I’m interested in nature, art, & languages
+- 🌱 I’m currently learning internet design
 - 💞️ I’m looking to collaborate on assignments :)
-- 📫 How to reach me ... telegram: @roxie2000 discord: @roxie#0599
+- 📫 How to reach me ... telegram: @roxie2000 discord: @roxieo.o
 
 <!---
 rocelyn/rocelyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
